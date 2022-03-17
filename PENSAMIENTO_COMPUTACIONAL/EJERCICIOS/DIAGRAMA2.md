@@ -39,3 +39,11 @@
 
 
 3. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
+
+       Algoritmo:
+       1.incio
+       2.declarar(numero,par, impar)int
+       3.mostrar("ingresa el numero")
+       4.asignar(numero)
+       5.si numero%2==0 entonces muestra ("par") si no muestra ("impar")
+       6.fin.
