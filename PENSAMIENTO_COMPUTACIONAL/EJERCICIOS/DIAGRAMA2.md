@@ -47,3 +47,4 @@
        4.asignar(numero)
        5.si numero%2==0 entonces muestra ("par") si no muestra ("impar")
        6.fin.
+file:///home/linux/Escritorio/shot-2022-03-18_09-57-28.jpg
