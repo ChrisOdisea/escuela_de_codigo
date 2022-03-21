@@ -36,7 +36,8 @@
        4.asignar(letra)
        5.en caso de (letra) haga caso A:mostrar("es vocal") caso E:mostrar("es vocal) caso I:mostrar("es vocal) caso O:mostrar("es vocal) caso U:                                mostrar("es vocal) sino mostrar ("no es vocal")
        6.fin.
-   
+ ![SO](https://user-images.githubusercontent.com/101351242/159348641-7a4f8bc1-ea07-41ea-b810-0a3226cd2a12.png)
+  
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 
       Algoritmo:
@@ -60,6 +61,9 @@
       5.en caso de (numero) haga caso 1: mostrar("Enero")en caso 2: mostrar("Febrero")en caso 3: mostrar("Marzo")en caso 4: mostrar("Abril")en caso 5:("Mayo")en caso           6: mostrar("Junio")en caso 7: mostrar("Julio")en caso 8: mostrar("Agosto")en caso 9: mostrar("Septiembre")en caso 10: mostrar("Octubre")en caso 11: mostrar 
         ("Noviembre")en caso 12: mostrar("Diciembre")sino mostrar("valor incorrecto")
       6.Fin
+
+![oo](https://user-images.githubusercontent.com/101351242/159352490-c467c452-22f2-4b28-a56c-42d68e9342d1.png)
+
        
 * De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
 
@@ -69,7 +73,7 @@
       3.Mostrar("Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul")
       4.mostrar("Vote por el candidato de su preferencia")
       5.asignar(A,B,C)
-      6.en caso 1: mostrar("Usted ha votado por el partido " + A) En caso 2: mostrar("Usted ha votado por el partido" + B) En caso 3: mostrar("Usted ha votado por el           partido" + C) sino mostrar ("Opcion erronea")
+      6.en caso 1: mostrar("Usted ha votado por el partido " + A) En caso 2: mostrar("Usted ha votado por el partido" + B) En caso 3: mostrar("Usted ha votado por el         partido" + C) sino mostrar ("Opcion erronea")
       7.Fin
 
   
