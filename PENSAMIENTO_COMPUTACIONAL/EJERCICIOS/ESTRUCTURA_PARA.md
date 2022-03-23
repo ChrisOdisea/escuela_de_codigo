@@ -39,7 +39,8 @@ Realizar algoritmo y diagrama de flujo de un programa que imprima las tablas de 
       2.declarar(contador1,contador2,resultado)
       3.asignar(contador1=1)
       4.asignar(contador2=1)
-      5.PARA(contador1<=10) PARA (contador2<=10)
+      5.PARA(contador1<=10) contador1=contador1 +1 PARA (contador2<=10) contador2*contador1=resultado mostrar(contador1+contador2=resultado) conador2 + 1 fin para
+      6.fin.
       
 
 
